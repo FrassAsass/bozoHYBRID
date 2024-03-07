@@ -2,21 +2,27 @@
 
 ![bozoHYBRID](https://raw.githubusercontent.com/FrassAsass/bozoHYBRID/main/bozoHYBRID.gif)
 
+## bozoHYBRID Website
+
+**[https://bozo.finance](https://bozo.finance)**
+
 ## bozoHYBRID Official Links
 
 - **Contract Address (CA):** `EJPtJEDogxzDbvM8qvAsqYbLmPj5n1vQeqoAzj9Yfv3q`
-- **Dexscreener:** [Dexscreener](https://dexscreener.com/solana/5zgfqauyytm7gmz9sd5kbhc294srla4hxfzwahdm3kxo)
-- **Birdeye:** [Birdeye](https://birdeye.so/token/EJPtJEDogxzDbvM8qvAsqYbLmPj5n1vQeqoAzj9Yfv3q/5zGFqaUYYtm7GMz9sD5kBhc294SRLA4hXfzwaHdM3kXo?chain=solana)
-- **Dextools:** [Dextools](https://www.dextools.io/app/en/solana/pair-explorer/5zGFqaUYYtm7GMz9sD5kBhc294SRLA4hXfzwaHdM3kXo)
-- **Magic Eden:** [Magic Eden](https://magiceden.io/marketplace/bozo_)
-- **Tensor Trade:** [Tensor Trade](https://www.tensor.trade/trade/bozo_spl20)
-- **Twitter:** [Twitter](https://twitter.com/bozoHYBRID)
-- **Telegram:** [Telegram](https://t.me/bozoHYBRID)
-- **Gecko Terminal:** [Gecko Terminal](https://www.geckoterminal.com/solana/pools/5zGFqaUYYtm7GMz9sD5kBhc294SRLA4hXfzwaHdM3kXo)
-- **CoinMarketCap:** [CoinMarketCap](https://coinmarketcap.com/currencies/bozohybrid/)
-- **Jupiter Exchange:** [Jupiter Exchange](https://jup.ag/swap/SOL-bozoHYBRID)
-- **Raydium LP:** [Raydium LP](https://raydium.io/liquidity/add/?coin0=EJPtJEDogxzDbvM8qvAsqYbLmPj5n1vQeqoAzj9Yfv3q&coin1=So11111111111111111111111111111111111111112)
-- **NFTxTOKEN Bridge:** [NFTxTOKEN Bridge](https://www.bozo.finance/bridge)
+- **Dexscreener:** [https://dexscreener.com/solana/5zgfqauyytm7gmz9sd5kbhc294srla4hxfzwahdm3kxo](https://dexscreener.com/solana/5zgfqauyytm7gmz9sd5kbhc294srla4hxfzwahdm3kxo)
+- **Birdeye:** [https://birdeye.so/token/EJPtJEDogxzDbvM8qvAsqYbLmPj5n1vQeqoAzj9Yfv3q/5zGFqaUYYtm7GMz9sD5kBhc294SRLA4hXfzwaHdM3kXo?chain=solana](https://birdeye.so/token/EJPtJEDogxzDbvM8qvAsqYbLmPj5n1vQeqoAzj9Yfv3q/5zGFqaUYYtm7GMz9sD5kBhc294SRLA4hXfzwaHdM3kXo?chain=solana)
+- **Dextools:** [https://www.dextools.io/app/en/solana/pair-explorer/5zGFqaUYYtm7GMz9sD5kBhc294SRLA4hXfzwaHdM3kXo](https://www.dextools.io/app/en/solana/pair-explorer/5zGFqaUYYtm7GMz9sD5kBhc294SRLA4hXfzwaHdM3kXo)
+- **Magic Eden:** [https://magiceden.io/marketplace/bozo_](https://magiceden.io/marketplace/bozo_)
+- **Tensor Trade:** [https://www.tensor.trade/trade/bozo_spl20](https://www.tensor.trade/trade/bozo_spl20)
+- **Solsniper:** [https://www.sniper.xyz/collection/bozo_spl20](https://www.sniper.xyz/collection/bozo_spl20)
+- **Twitter:** [https://twitter.com/bozoHYBRID](https://twitter.com/bozoHYBRID)
+- **Telegram:** [https://t.me/bozoHYBRID](https://t.me/bozoHYBRID)
+- **Gecko Terminal:** [https://www.geckoterminal.com/solana/pools/5zGFqaUYYtm7GMz9sD5kBhc294SRLA4hXfzwaHdM3kXo](https://www.geckoterminal.com/solana/pools/5zGFqaUYYtm7GMz9sD5kBhc294SRLA4hXfzwaHdM3kXo)
+- **CoinMarketCap:** [https://coinmarketcap.com/currencies/bozohybrid/](https://coinmarketcap.com/currencies/bozohybrid/)
+- **Jupiter Exchange:** [https://jup.ag/swap/SOL-bozoHYBRID](https://jup.ag/swap/SOL-bozoHYBRID)
+- **Raydium LP:** [https://raydium.io/liquidity/add/?coin0=EJPtJEDogxzDbvM8qvAsqYbLmPj5n1vQeqoAzj9Yfv3q&coin1=So11111111111111111111111111111111111111112](https://raydium.io/liquidity/add/?coin0=EJPtJEDogxzDbvM8qvAsqYbLmPj5n1vQeqoAzj9Yfv3q&coin1=So11111111111111111111111111111111111111112)
+- **NFTxTOKEN Bridge:** [https://www.bozo.finance/bridge](https://www.bozo.finance/bridge)
+
 
 
 ## About bozoHYBRID
