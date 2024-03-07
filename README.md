@@ -1,5 +1,7 @@
 # What is bozoHYBRID? What is Hybrid DeFi? Where to get $BOZO on Solana?
 
+![bozoHYBRID](https://raw.githubusercontent.com/FrassAsass/bozoHYBRID/main/bozoHYBRID.gif)
+
 ## bozoHYBRID Official Links
 
 - **Contract Address (CA):** `EJPtJEDogxzDbvM8qvAsqYbLmPj5n1vQeqoAzj9Yfv3q`
