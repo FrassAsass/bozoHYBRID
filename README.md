@@ -18,8 +18,9 @@
 - **Twitter:** [https://twitter.com/bozoHYBRID](https://twitter.com/bozoHYBRID)
 - **Telegram:** [https://t.me/bozoHYBRID](https://t.me/bozoHYBRID)
 - **Gecko Terminal:** [https://www.geckoterminal.com/solana/pools/5zGFqaUYYtm7GMz9sD5kBhc294SRLA4hXfzwaHdM3kXo](https://www.geckoterminal.com/solana/pools/5zGFqaUYYtm7GMz9sD5kBhc294SRLA4hXfzwaHdM3kXo)
-- **CoinMarketCap:** [https://coinmarketcap.com/currencies/bozohybrid/](https://coinmarketcap.com/currencies/bozohybrid/)
-- **Jupiter Exchange:** [https://jup.ag/swap/SOL-bozoHYBRID](https://jup.ag/swap/SOL-bozoHYBRID)
+- **Coingecko bozoHYBRID:** [https://www.coingecko.com/en/coins/bozo-hybrid](https://www.coingecko.com/en/coins/bozo-hybrid)
+- **CoinMarketCap bozoHYBRID:** [https://coinmarketcap.com/currencies/bozohybrid/](https://coinmarketcap.com/currencies/bozohybrid/)
+- **Jupiter Exchange bozo token:** [https://jup.ag/swap/SOL-bozoHYBRID](https://jup.ag/swap/SOL-bozoHYBRID)
 - **Raydium LP:** [https://raydium.io/liquidity/add/?coin0=EJPtJEDogxzDbvM8qvAsqYbLmPj5n1vQeqoAzj9Yfv3q&coin1=So11111111111111111111111111111111111111112](https://raydium.io/liquidity/add/?coin0=EJPtJEDogxzDbvM8qvAsqYbLmPj5n1vQeqoAzj9Yfv3q&coin1=So11111111111111111111111111111111111111112)
 - **NFTxTOKEN Bridge:** [https://www.bozo.finance/bridge](https://www.bozo.finance/bridge)
 
