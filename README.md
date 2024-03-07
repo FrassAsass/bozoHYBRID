@@ -21,7 +21,7 @@
 
 ## About bozoHYBRID
 
-Crypto is a wild and whimsical world - bustling with innovation, technology, and laughs. A new titan emerges from the meme-fueled fires of innovation: bozoHYBRID. Picture this: a hybrid NFT that's not just any collectible jpeg, but a liquid masterpiece bridging the gap between meme coin charm and the solid utility of DeFi. It's like catching lightning in a bottle, if that lightning were a meme and the bottle were the blockchain. Enter the era of the hybrid coin, where bozoHYBRID leads the charge.
+Crypto is a wild and whimsical world - bustling with innovation, technology, and laughs. A new titan emerges from the meme-fueled fires of innovation: bozoHYBRID. Picture this: a hybrid NFT that's not just any collectible jpeg, but a liquid masterpiece bridging the gap between meme coin charm and the solid utility of DeFi. It's like catching lightning in a bottle, if that lightning were a meme and the bottle were the blockchain. Enter the era of the hybrid DeFi where coins and NFTs meet while bozoHYBRID leads the charge.
 
 Imagine a world where your NFT isn't just a static image gathering digital dust. With bozoHYBRID, your jpegs are suddenly liquid  and transformed into a generative hybrid powerhouse, blending the best of both worlds: the collectible euphoria of NFTs and the robust mechanics of SPL tokens. It's a seamless dance between form and function, where every NFT can be converted into 800k bozo coin. It's a hybrid collective where members have fluid access the DeFi ecosystem on Solana. This isn't just a token; it's a token with a ticket to the MUN, courtesy of the NFTxTOKEN innovation.
 
